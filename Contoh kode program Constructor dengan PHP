@@ -1,0 +1,5 @@
+public function __construct ($namabarang="nama barang", $merk="merk", $harga=0){
+		$this->namabarang = $namabarang;
+		$this->merk = $merk;
+		$this->harga = $harga;
+	}
